@@ -1,0 +1,8 @@
+.nav-link {
+    font-size: 1.125rem;
+    margin-right: 10px;
+}
+
+.nav-link:hover {
+    font-weight: bold;
+}

@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Modulo 1",
+      "cor": "#2F3E46",
+      "descricao": "Tópicos relacionados a ui-ux design",
+      "url": "www.instagram.com/nettuf"
+    },
+    {
+      "titulo": "Modulo 2",
+      "descricao": "Tutoriais e vídeos voltados para o desenvolvimento web",
+      "url": "www.instagram.com/nettuf",
+      "cor": "#354f52",
+      "id": 2
+    },
+    {
+      "titulo": "Modulo 3",
+      "descricao": "Videos explicativos sobre heurísticas, dúvidas, exposições e outros conteúdos teóricos",
+      "url": "www.instagram.com/nettuf",
+      "cor": "#52796f",
+      "id": 3
+    },
+    {
+      "titulo": "Modulo 4",
+      "cor": "#84A98C",
+      "descricao": "Como deixar seu site online?",
+      "url": "www.instagram.com/nettuf",
+      "id": 4
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Curso de Java",
+      "description": "Java - Uma boa linguagem para investir nos dias de hoje?",
+      "url": "https://www.youtube.com/watch?v=sTX0UEplF54"
+      },
+      {
+      "titulo": "Apresentação do curso de UI-UX",
+      "description": "Introdução aos temas e metodologia de ensino",
+      "url": "https://www.youtube.com/watch?v=U0_BQgZ9Beg",
+      "categoriaId": 1,
+      "id": 2
+      },
+      {
+      "titulo": "Curso em video",
+      "description": "Curso em video",
+      "url": "https://www.youtube.com/watch?v=sTX0UEplF54",
+      "categoriaId": 3,
+      "id": 3
+      },
+      {
+      "categoriaId": 1,
+      "titulo": "O que é UX e UI? - Semana do Design",
+      "description": "O que é UX e UI",
+      "url": "https://www.youtube.com/watch?v=t_wlpJq90Zw",
+      "id": 4
+      },
+      {
+      "categoriaId": 1,
+      "titulo": "Como Começar em UX Design: Absolutamente TUDO que você precisa saber",
+      "description": "Como Começar em UX Design",
+      "url": "https://www.youtube.com/watch?v=MFQcGDO67JU",
+      "id": 5
+      },
+      {
+      "categoriaId": 1,
+      "titulo": "O que é UI Design (Design de Interfaces): Guia Completo de Como Começar Nessa Área",
+      "description": "O que é UI Design",
+      "url": "https://www.youtube.com/watch?v=tXdHD6b7VQo",
+      "id": 6
+      },
+      {
+      "categoriaId": 1,
+      "titulo": "Migrando para UX",
+      "description": "Migrando para UX",
+      "url": "https://www.youtube.com/watch?v=x8w-FFR-As8",
+      "id": 7
+      },
+      {
+      "categoriaId": 2,
+      "titulo": "Precisamos Conversar Sobre o Futuro do Desenvolvimento Web",
+      "description": "Futuro do Desenvolvimento Web",
+      "url": "https://www.youtube.com/watch?v=OcGpWJ3WEh8",
+      "id": 8
+      },
+      {
+      "categoriaId": 2,
+      "titulo": "Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe [GUIA DEFINITIVO]",
+      "description": "Criação e hospedagem de sites",
+      "url": "https://www.youtube.com/watch?v=EW7m2WIvFgQ",
+      "id": 9
+      },
+      {
+      "categoriaId": 2,
+      "titulo": "Como Programar Sites Difíceis de Cair? (Qualidade Profissional)",
+      "description": "Programar Sites Difíceis de Cair",
+      "url": "https://www.youtube.com/watch?v=IyRUn0GocEc",
+      "id": 10
+      },
+      {
+      "categoriaId": 2,
+      "titulo": "Desenvolvimento web - Será que vale a pena ser um programador web?",
+      "description": "vale a pena ser um programador web?",
+      "url": "https://www.youtube.com/watch?v=8ArPvUY1v58",
+      "id": 11
+      },
+      {
+      "categoriaId": 2,
+      "titulo": "O que vc precisa saber para ser um programador web",
+      "description": "O que vc precisa saber para ser um programador web",
+      "url": "https://www.youtube.com/watch?v=SbeMrbJ6R9E",
+      "id": 12
+      },
+      {
+      "categoriaId": 3,
+      "titulo": "Curso em video",
+      "description": "Java",
+      "url": "https://www.youtube.com/watch?v=sTX0UEplF54",
+      "id": 13
+      },
+      {
+      "categoriaId": 3,
+      "titulo": "Curso POO Teoria #01a - O que é Programação Orientada a Objetos",
+      "description": "Programação Orientada a Objetos",
+      "url": "https://www.youtube.com/watch?v=KlIL63MeyMY",
+      "id": 14
+      },
+      {
+      "categoriaId": 3,
+      "titulo": "DOM (Document Object Model) // Dicionário do Programador",
+      "description": "DOM (Document Object Model)",
+      "url": "https://www.youtube.com/watch?v=HOv9CqqAZk0",
+      "id": 15
+      },
+      {
+      "categoriaId": 3,
+      "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+      "description": "O que o JavaScript é capaz de fazer",
+      "url": "https://www.youtube.com/watch?v=Ptbk2af68e8",
+      "id": 16
+      },
+      {
+      "categoriaId": 4,
+      "titulo": "Curso Netlify #1 - 10 Razões para usar o Netlify",
+      "description": "Netlify",
+      "url": "https://www.youtube.com/watch?v=a1cIjP1bueM",
+      "id": 17
+      },
+      {
+      "categoriaId": 4,
+      "titulo": "Ensinando a usar o Heroku Cloud como Backend gratuitamente. Criando o projeto #Parte 01",
+      "description": "Heroku Cloud",
+      "url": "https://www.youtube.com/watch?v=fXyYxcoqrY8",
+      "id": 18
+      },
+      {
+      "categoriaId": 4,
+      "titulo": "Como Hospedar seu Site na 000Webhost explicação fácil",
+      "description": "000Webhost",
+      "url": "https://www.youtube.com/watch?v=C4p29Z_BIVg",
+      "id": 19
+      },
+      {
+      "categoriaId": 4,
+      "titulo": "INACREDITÁVEL! Aprenda a criar site com DOMÍNIO e HOSPEDAGEM GRÁTIS em apenas 19 minutos!",
+      "description": "Criação e hospedagem de sites grátis",
+      "url": "https://www.youtube.com/watch?v=dFfzdYpiJNA",
+      "id": 20
+      },
+      {
+      "categoriaId": 4,
+      "titulo": "Como Contratar a HostGator (Atualizado) - 2020",
+      "description": "HostGator",
+      "url": "https://www.youtube.com/watch?v=WViZ4ouPYbo",
+      "id": 21
+      }
+  ]
+}

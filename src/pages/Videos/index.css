@@ -1,0 +1,13 @@
+.input {
+    border: 1px solid black;
+    box-shadow: 2px 2px 2px gray;
+}
+
+.input:hover {
+    background-color: #CECECE;
+    transition: 0.5s;
+}
+
+.cadastro {
+    background-color: #efefef;
+}
