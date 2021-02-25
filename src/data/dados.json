@@ -1,0 +1,30 @@
+{
+    "categorias": [
+      {
+        "titulo": "Modulo 1",
+        "link": "www.instagram.com/nettuf",
+        "cor": "#2F3E46",
+        "link_extra": {
+          "text": "Aula 1",
+          "url": "https://youtu.be/lpDaJTtehJ4"
+        },
+        "videos": [
+          {
+            "titulo": "Aula 2",
+            "url": "https://youtu.be/ARrqMNIcHO0"
+          },
+          {
+            "titulo": "Aula 3",
+            "url": "https://youtu.be/ZL_1zig5qzI"
+          },
+          {
+            "titulo": "Aula 4",
+            "url": "https://youtu.be/ZKq3H1CaKyc"
+          },
+          {
+            "titulo": "Aula 5",
+            "url": "https://youtu.be/AA_lyXYc5Tw"
+          }
+        ]
+      }
+      
